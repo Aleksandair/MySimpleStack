@@ -6,6 +6,8 @@ import java.util.Stack;
 /**
  * My implementation of SimpleStack
  * Created by Skander on 27/02/2015.
+ *
+ * Un commentaire répondant à l'exigence #3
  */
 public class MySimpleStack implements SimpleStack {
 
